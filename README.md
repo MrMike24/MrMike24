@@ -282,7 +282,7 @@ Co-authored research on an AI-powered financial analysis platform combining Mach
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/MrMike24/MrMike24/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/MrMike24/MrMike24/output/snake-dark.svg" width="100%" />
 
 <br/><br/>
 
