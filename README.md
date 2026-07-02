@@ -286,7 +286,6 @@ Co-authored research on an AI-powered financial analysis platform combining Mach
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MrMike24&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&bg-color=050816" />
 
 <br/><br/>
 
